@@ -1,5 +1,13 @@
 ## Hi there 👋
+I'm Naman, a Design engineer 
+I design and build whatever I can imagine or get inspiration from social media like X
 
+If an idea pops into my head, I'll build it and ship it
+My current main tech stack is React, Next.js, TypeScript, Tailwind CSS, and Motion.dev.
+I usually make any design idea in my mind and try to replicate its structure on ExcaliDraw before I code it
+
+
+Aside from designing front-end, I also love designing databases and implementing some Research Papers
 <!--
 **NamanSharma2112/NamanSharma2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
