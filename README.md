@@ -3,7 +3,7 @@ I'm Naman, a Design engineer <br/>
 I design and build whatever I can imagine or get inspiration from social media like X<br/> <br/>
 
 If an idea pops into my head, I'll build it and ship it<br/>
-My current main tech stack is React, Next.js, TypeScript, Tailwind CSS, and Motion.dev.<br/>
+My current main tech stack is React, Next.js, TypeScript, Tailwind CSS, Motion.dev and claude.<br/>
 I usually make any design idea in my mind and try to replicate its structure on ExcaliDraw before I code it<br/><br/>
 
 
