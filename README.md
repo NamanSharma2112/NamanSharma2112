@@ -7,7 +7,7 @@ My current main tech stack is React, Next.js, TypeScript, Tailwind CSS, Motion.d
 I usually make any design idea in my mind and try to replicate its structure on ExcaliDraw before I code it<br/><br/>
 
 
-Aside from designing front-end, I also love implementing some Research Papers, and recreating other designs
+Aside from designing, I also love implementing recreating other designs 
 <!--
 **NamanSharma2112/NamanSharma2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
