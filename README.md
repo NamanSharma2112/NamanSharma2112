@@ -12,7 +12,7 @@ I sketch ideas on Excalidraw, build them in code, and ship them. A lot of my wor
 </p>
 
 
-### 🚀 Featured work
+### Featured work
 
 | Project | What it is | Built with |
 |---|---|---|
@@ -25,13 +25,6 @@ I sketch ideas on Excalidraw, build them in code, and ship them. A lot of my wor
 | [**AI Coding Agent**](https://github.com/NamanSharma2112/ConversAIlabs) | Autonomous agent that explores a codebase and implements requirements | Python · LLMs |
 | [**Virgil launch video**](https://github.com/NamanSharma2112/heavenclip) | Frame-accurate recreation of a SaaS launch video in code | Remotion · React |
 
-### ✨ How I work
 
-- 🎨 **Design first** — structure on Excalidraw, then code
-- ⚡ **Ship fast** — if an idea pops up, it gets built and deployed
-- 🔁 **Recreate to learn** — rebuilding great designs to sharpen my craft
-- 🤖 **AI in the loop** — Claude is part of my daily build workflow
-
----
 
 <p align="left"><i>Open to full-stack / frontend roles and freelance builds — say hi on <a href="https://x.com/NamanSharma2112">X</a> or <a href="https://www.linkedin.com/in/namansharma--ns/">LinkedIn</a>.</i></p>
