@@ -1,0 +1,3710 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="888"
+height="172"
+viewBox="0 0 888 172">
+
+<rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+
+<style>
+rect {
+    opacity: 0;
+    animation: appear 0.4s ease forwards;
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        transform: translateY(-5px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
+
+
+            <rect style="animation-delay:0.0s"
+                x="20"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-05: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.003s"
+                x="20"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-06: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.006s"
+                x="20"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-07: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.009000000000000001s"
+                x="20"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-08: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.012s"
+                x="20"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-09: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.015s"
+                x="20"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-10: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.018000000000000002s"
+                x="20"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-11: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.021s"
+                x="36"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-12: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.024s"
+                x="36"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-13: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.027s"
+                x="36"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-14: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.03s"
+                x="36"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-15: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.033s"
+                x="36"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-16: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.036000000000000004s"
+                x="36"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-17: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.039s"
+                x="36"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-18: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.042s"
+                x="52"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-19: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.045s"
+                x="52"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-20: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.048s"
+                x="52"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-21: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.051000000000000004s"
+                x="52"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-22: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.054s"
+                x="52"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.057s"
+                x="52"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-24: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.06s"
+                x="52"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-25: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.063s"
+                x="68"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-26: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.066s"
+                x="68"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-27: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.069s"
+                x="68"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-28: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.07200000000000001s"
+                x="68"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-29: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.075s"
+                x="68"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-30: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.078s"
+                x="68"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-10-31: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.081s"
+                x="68"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-01: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.084s"
+                x="84"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-02: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.08700000000000001s"
+                x="84"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-03: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.09s"
+                x="84"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-04: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.093s"
+                x="84"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-05: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.096s"
+                x="84"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-06: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.099s"
+                x="84"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-07: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.10200000000000001s"
+                x="84"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-08: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.105s"
+                x="100"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-09: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.108s"
+                x="100"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-10: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.111s"
+                x="100"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-11: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.114s"
+                x="100"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-12: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.117s"
+                x="100"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-13: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.12s"
+                x="100"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-14: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.123s"
+                x="100"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2025-11-15: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.126s"
+                x="116"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-16: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.129s"
+                x="116"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-17: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.132s"
+                x="116"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-18: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.135s"
+                x="116"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-19: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.138s"
+                x="116"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-20: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.14100000000000001s"
+                x="116"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-21: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.14400000000000002s"
+                x="116"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-22: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.147s"
+                x="132"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.15s"
+                x="132"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-24: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.153s"
+                x="132"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-25: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.156s"
+                x="132"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-26: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.159s"
+                x="132"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-27: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.162s"
+                x="132"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#26a641">
+                <title>2025-11-28: 3</title>
+            </rect>
+            
+            <rect style="animation-delay:0.165s"
+                x="132"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-29: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.168s"
+                x="148"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-11-30: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.171s"
+                x="148"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-01: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.17400000000000002s"
+                x="148"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-02: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.177s"
+                x="148"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-03: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.18s"
+                x="148"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-04: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.183s"
+                x="148"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-05: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.186s"
+                x="148"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-06: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.189s"
+                x="164"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-07: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.192s"
+                x="164"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-08: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.195s"
+                x="164"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-09: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.198s"
+                x="164"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-10: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.201s"
+                x="164"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-11: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.20400000000000001s"
+                x="164"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-12: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.20700000000000002s"
+                x="164"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-13: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.21s"
+                x="180"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-14: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.213s"
+                x="180"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-15: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.216s"
+                x="180"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-16: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.219s"
+                x="180"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-17: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.222s"
+                x="180"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-18: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.225s"
+                x="180"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-19: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.228s"
+                x="180"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-20: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.231s"
+                x="196"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-21: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.234s"
+                x="196"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-22: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.23700000000000002s"
+                x="196"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.24s"
+                x="196"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-24: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.243s"
+                x="196"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-25: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.246s"
+                x="196"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-26: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.249s"
+                x="196"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-27: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.252s"
+                x="212"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-28: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.255s"
+                x="212"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-29: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.258s"
+                x="212"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-30: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.261s"
+                x="212"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2025-12-31: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.264s"
+                x="212"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-01: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.267s"
+                x="212"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-02: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.27s"
+                x="212"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-03: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.273s"
+                x="228"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-04: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.276s"
+                x="228"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-05: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.279s"
+                x="228"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-06: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.28200000000000003s"
+                x="228"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-07: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.28500000000000003s"
+                x="228"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-08: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.28800000000000003s"
+                x="228"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-09: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.291s"
+                x="228"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-10: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.294s"
+                x="244"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-11: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.297s"
+                x="244"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-12: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.3s"
+                x="244"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-13: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.303s"
+                x="244"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-14: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.306s"
+                x="244"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-15: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.309s"
+                x="244"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-01-16: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.312s"
+                x="244"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-17: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.315s"
+                x="260"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-18: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.318s"
+                x="260"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-19: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.321s"
+                x="260"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-20: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.324s"
+                x="260"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-21: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.327s"
+                x="260"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-22: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.33s"
+                x="260"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.333s"
+                x="260"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-24: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.336s"
+                x="276"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-01-25: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.339s"
+                x="276"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-26: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.342s"
+                x="276"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-27: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.34500000000000003s"
+                x="276"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-01-28: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.34800000000000003s"
+                x="276"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-29: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.35100000000000003s"
+                x="276"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-30: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.354s"
+                x="276"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-01-31: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.357s"
+                x="292"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-01: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.36s"
+                x="292"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-02: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.363s"
+                x="292"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-03: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.366s"
+                x="292"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-04: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.369s"
+                x="292"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-05: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.372s"
+                x="292"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-06: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.375s"
+                x="292"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-07: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.378s"
+                x="308"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-08: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.381s"
+                x="308"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-09: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.384s"
+                x="308"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-10: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.387s"
+                x="308"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-11: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.39s"
+                x="308"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-02-12: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.393s"
+                x="308"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-13: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.396s"
+                x="308"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-14: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.399s"
+                x="324"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-15: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.402s"
+                x="324"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-16: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.405s"
+                x="324"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-17: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.40800000000000003s"
+                x="324"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-18: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.41100000000000003s"
+                x="324"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-19: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.41400000000000003s"
+                x="324"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-20: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.417s"
+                x="324"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-21: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.42s"
+                x="340"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-22: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.423s"
+                x="340"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.426s"
+                x="340"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-24: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.429s"
+                x="340"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-25: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.432s"
+                x="340"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-26: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.435s"
+                x="340"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-02-27: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.438s"
+                x="340"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-02-28: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.441s"
+                x="356"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-01: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.444s"
+                x="356"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-03-02: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.447s"
+                x="356"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-03: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.45s"
+                x="356"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-04: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.453s"
+                x="356"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-05: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.456s"
+                x="356"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-06: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.459s"
+                x="356"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-07: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.462s"
+                x="372"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-08: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.465s"
+                x="372"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-09: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.468s"
+                x="372"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-10: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.47100000000000003s"
+                x="372"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-11: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.47400000000000003s"
+                x="372"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-12: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.47700000000000004s"
+                x="372"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-13: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.48s"
+                x="372"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#26a641">
+                <title>2026-03-14: 3</title>
+            </rect>
+            
+            <rect style="animation-delay:0.483s"
+                x="388"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-03-15: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.486s"
+                x="388"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-16: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.489s"
+                x="388"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-03-17: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.492s"
+                x="388"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-18: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.495s"
+                x="388"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-19: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.498s"
+                x="388"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-20: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.501s"
+                x="388"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-21: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.504s"
+                x="404"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-22: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.507s"
+                x="404"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-23: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.51s"
+                x="404"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-24: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.513s"
+                x="404"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-25: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.516s"
+                x="404"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-26: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.519s"
+                x="404"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-03-27: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.522s"
+                x="404"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-28: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.525s"
+                x="420"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-03-29: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.528s"
+                x="420"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-30: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.531s"
+                x="420"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-03-31: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.534s"
+                x="420"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-04-01: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.537s"
+                x="420"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-02: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.54s"
+                x="420"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-04-03: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.543s"
+                x="420"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-04: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.546s"
+                x="436"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-05: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.549s"
+                x="436"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-06: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.552s"
+                x="436"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-07: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.555s"
+                x="436"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-08: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.558s"
+                x="436"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-09: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.561s"
+                x="436"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-10: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.5640000000000001s"
+                x="436"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-11: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.5670000000000001s"
+                x="452"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-04-12: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.5700000000000001s"
+                x="452"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-13: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.5730000000000001s"
+                x="452"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-14: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.5760000000000001s"
+                x="452"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-15: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.579s"
+                x="452"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-16: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.582s"
+                x="452"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-17: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.585s"
+                x="452"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-18: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.588s"
+                x="468"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-19: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.591s"
+                x="468"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-20: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.594s"
+                x="468"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-21: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.597s"
+                x="468"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-22: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.6s"
+                x="468"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-23: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.603s"
+                x="468"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-24: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.606s"
+                x="468"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-25: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.609s"
+                x="484"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-26: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.612s"
+                x="484"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-04-27: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.615s"
+                x="484"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-28: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.618s"
+                x="484"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-04-29: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.621s"
+                x="484"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-04-30: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.624s"
+                x="484"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-01: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.627s"
+                x="484"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#26a641">
+                <title>2026-05-02: 3</title>
+            </rect>
+            
+            <rect style="animation-delay:0.63s"
+                x="500"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-05-03: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.633s"
+                x="500"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-04: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.636s"
+                x="500"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-05: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.639s"
+                x="500"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-06: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.642s"
+                x="500"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-07: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.645s"
+                x="500"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-08: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.648s"
+                x="500"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-09: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.651s"
+                x="516"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-10: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.654s"
+                x="516"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-11: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.657s"
+                x="516"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-12: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.66s"
+                x="516"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-13: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.663s"
+                x="516"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-14: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.666s"
+                x="516"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-15: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.669s"
+                x="516"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-16: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.672s"
+                x="532"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-17: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.675s"
+                x="532"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-18: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.678s"
+                x="532"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-19: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.681s"
+                x="532"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-20: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.684s"
+                x="532"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-21: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.687s"
+                x="532"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-22: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.6900000000000001s"
+                x="532"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-23: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.6930000000000001s"
+                x="548"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-24: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.6960000000000001s"
+                x="548"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-25: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.6990000000000001s"
+                x="548"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-05-26: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.7020000000000001s"
+                x="548"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-05-27: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.705s"
+                x="548"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-28: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.708s"
+                x="548"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-29: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.711s"
+                x="548"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-30: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.714s"
+                x="564"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-05-31: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.717s"
+                x="564"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-06-01: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.72s"
+                x="564"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-02: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.723s"
+                x="564"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-03: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.726s"
+                x="564"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-04: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.729s"
+                x="564"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-05: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.732s"
+                x="564"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-06-06: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.735s"
+                x="580"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-06-07: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.738s"
+                x="580"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-08: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.741s"
+                x="580"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-09: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.744s"
+                x="580"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-10: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.747s"
+                x="580"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-06-11: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.75s"
+                x="580"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-12: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.753s"
+                x="580"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-13: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.756s"
+                x="596"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-14: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.759s"
+                x="596"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-15: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.762s"
+                x="596"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-16: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.765s"
+                x="596"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-17: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.768s"
+                x="596"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-18: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.771s"
+                x="596"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-19: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.774s"
+                x="596"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-20: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.777s"
+                x="612"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-06-21: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.78s"
+                x="612"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-22: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.783s"
+                x="612"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.786s"
+                x="612"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-24: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.789s"
+                x="612"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-25: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.792s"
+                x="612"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-26: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.795s"
+                x="612"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-27: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.798s"
+                x="628"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-28: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.801s"
+                x="628"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-29: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.804s"
+                x="628"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-06-30: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.807s"
+                x="628"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-07-01: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.81s"
+                x="628"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-07-02: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.8130000000000001s"
+                x="628"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-07-03: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.8160000000000001s"
+                x="628"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-04: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.8190000000000001s"
+                x="644"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-05: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.8220000000000001s"
+                x="644"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-06: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.8250000000000001s"
+                x="644"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-07: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.8280000000000001s"
+                x="644"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-08: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.8310000000000001s"
+                x="644"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-07-09: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.834s"
+                x="644"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-10: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.837s"
+                x="644"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-11: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.84s"
+                x="660"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-07-12: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.843s"
+                x="660"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-13: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.846s"
+                x="660"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-14: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.849s"
+                x="660"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-07-15: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.852s"
+                x="660"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-16: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.855s"
+                x="660"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-17: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.858s"
+                x="660"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-18: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.861s"
+                x="676"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-19: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.864s"
+                x="676"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-20: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.867s"
+                x="676"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-21: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.87s"
+                x="676"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-22: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.873s"
+                x="676"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.876s"
+                x="676"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-07-24: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.879s"
+                x="676"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-07-25: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.882s"
+                x="692"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-07-26: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.885s"
+                x="692"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-27: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.888s"
+                x="692"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-28: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.891s"
+                x="692"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-29: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.894s"
+                x="692"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-30: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.897s"
+                x="692"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-07-31: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.9s"
+                x="692"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-08-01: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.903s"
+                x="708"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-02: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.906s"
+                x="708"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-03: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.909s"
+                x="708"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-08-04: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.912s"
+                x="708"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-05: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.915s"
+                x="708"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-06: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.918s"
+                x="708"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-07: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.921s"
+                x="708"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-08-08: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.924s"
+                x="724"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-09: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.927s"
+                x="724"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-08-10: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.93s"
+                x="724"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#39d353">
+                <title>2026-08-11: 4</title>
+            </rect>
+            
+            <rect style="animation-delay:0.933s"
+                x="724"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#26a641">
+                <title>2026-08-12: 3</title>
+            </rect>
+            
+            <rect style="animation-delay:0.936s"
+                x="724"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-08-13: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.9390000000000001s"
+                x="724"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-08-14: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.9420000000000001s"
+                x="724"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-15: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.9450000000000001s"
+                x="740"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#26a641">
+                <title>2026-08-16: 3</title>
+            </rect>
+            
+            <rect style="animation-delay:0.9480000000000001s"
+                x="740"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#39d353">
+                <title>2026-08-17: 4</title>
+            </rect>
+            
+            <rect style="animation-delay:0.9510000000000001s"
+                x="740"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-08-18: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.9540000000000001s"
+                x="740"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-19: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.9570000000000001s"
+                x="740"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-20: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.96s"
+                x="740"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-21: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.963s"
+                x="740"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-22: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.966s"
+                x="756"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.969s"
+                x="756"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-08-24: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.972s"
+                x="756"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-08-25: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.975s"
+                x="756"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-08-26: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:0.978s"
+                x="756"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-08-27: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.981s"
+                x="756"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-28: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.984s"
+                x="756"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#26a641">
+                <title>2026-08-29: 3</title>
+            </rect>
+            
+            <rect style="animation-delay:0.987s"
+                x="772"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-08-30: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.99s"
+                x="772"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#26a641">
+                <title>2026-08-31: 3</title>
+            </rect>
+            
+            <rect style="animation-delay:0.993s"
+                x="772"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-09-01: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:0.996s"
+                x="772"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-02: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:0.999s"
+                x="772"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-09-03: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:1.002s"
+                x="772"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-04: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.0050000000000001s"
+                x="772"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-09-05: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:1.008s"
+                x="788"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-09-06: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:1.0110000000000001s"
+                x="788"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-09-07: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:1.014s"
+                x="788"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#26a641">
+                <title>2026-09-08: 3</title>
+            </rect>
+            
+            <rect style="animation-delay:1.0170000000000001s"
+                x="788"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-09: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.02s"
+                x="788"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-10: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.0230000000000001s"
+                x="788"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-11: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.026s"
+                x="788"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-09-12: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:1.029s"
+                x="804"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-13: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.032s"
+                x="804"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-14: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.035s"
+                x="804"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-15: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.038s"
+                x="804"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-16: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.041s"
+                x="804"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-17: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.044s"
+                x="804"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-18: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.047s"
+                x="804"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-09-19: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:1.05s"
+                x="820"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-20: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.053s"
+                x="820"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-21: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.056s"
+                x="820"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429">
+                <title>2026-09-22: 1</title>
+            </rect>
+            
+            <rect style="animation-delay:1.059s"
+                x="820"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-23: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.062s"
+                x="820"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-24: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.065s"
+                x="820"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-25: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.068s"
+                x="820"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-26: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.071s"
+                x="836"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-27: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.074s"
+                x="836"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-28: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.077s"
+                x="836"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-29: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.08s"
+                x="836"
+                y="68"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-09-30: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.083s"
+                x="836"
+                y="84"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-10-01: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.086s"
+                x="836"
+                y="100"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-10-02: 2</title>
+            </rect>
+            
+            <rect style="animation-delay:1.089s"
+                x="836"
+                y="116"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-10-03: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.092s"
+                x="852"
+                y="20"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-10-04: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.095s"
+                x="852"
+                y="36"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22">
+                <title>2026-10-05: 0</title>
+            </rect>
+            
+            <rect style="animation-delay:1.098s"
+                x="852"
+                y="52"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32">
+                <title>2026-10-06: 2</title>
+            </rect>
+            
+
+<text
+x="20"
+y="157"
+fill="#8b949e"
+font-family="monospace"
+font-size="12">
+
+0 contributions
+
+</text>
+
+</svg>
