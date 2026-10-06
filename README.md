@@ -11,6 +11,14 @@ I sketch ideas on Excalidraw, build them in code, and ship them. A lot of my wor
   <a href="https://peerlist.io/namansharma"><img src="https://img.shields.io/badge/Peerlist-namansharma-00AA45?style=flat-square" /></a>
 </p>
 
+## GitHub Activity
+
+<img src="./contrib-heatmap.svg" width="100%" />
+
+
+### Contribution Trend
+
+<img src="./contribution-chart.svg" width="100%" />
 
 ### Featured work
 
