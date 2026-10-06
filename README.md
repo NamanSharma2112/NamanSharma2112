@@ -15,6 +15,11 @@ I sketch ideas on Excalidraw, build them in code, and ship them. A lot of my wor
 
 <img src="./contrib-heatmap.svg" width="100%" />
 
+
+### Contribution Trend
+
+<img src="./contribution-chart.svg" width="100%" />
+
 ### Featured work
 
 | Project | What it is | Built with |
