@@ -18,7 +18,7 @@ I sketch ideas on Excalidraw, build them in code, and ship them. A lot of my wor
 
 ### Contribution Trend
 
-<img src="./contribution-chart.svg" width="100%" />
+<img src="./contribution-chart.svg" width="600" />
 
 ### Featured work
 
