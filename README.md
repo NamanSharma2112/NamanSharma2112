@@ -11,18 +11,6 @@ I sketch ideas on Excalidraw, build them in code, and ship them. A lot of my wor
   <a href="https://peerlist.io/namansharma"><img src="https://img.shields.io/badge/Peerlist-namansharma-00AA45?style=flat-square" /></a>
 </p>
 
-### 🛠️ Stack
-
-**Frontend & Motion**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&theme=dark" />
-
-**Backend & Data**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,python,graphql,mongodb,postgres,prisma&theme=dark" />
-
-**Tooling & Deploy**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman&theme=dark" />
-
-Also: Motion.dev · Remotion · Turborepo · Expo · scikit-learn · Claude / LLM APIs
 
 ### 🚀 Featured work
 
